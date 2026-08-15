@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Watch"
+  short_description: "Track material changes across the AI industry"
+  default_prompt: "Run $ai-watch and prepare a current, source-backed AI industry brief."
